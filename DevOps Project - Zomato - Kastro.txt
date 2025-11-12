@@ -93,6 +93,18 @@ Install below plugins:
 
 11.1. Tools Configuration in Jenkins
 <Follow the process as explained in the video>
+Pipeline: Stage 
+Eclipse Temurin installer
+SonarQube Scanner
+Docker
+Docker Commons
+Docker Pipeline
+Docker API
+docker-build-step
+Email Extension Template
+OWASP Dependency-Check
+NodeJS
+Prometheus metrics
 
 11.2. Configuration of SonarQube Token in Jenkins
 <Follow the process as explained in the video>
@@ -715,6 +727,7 @@ Kind Request:
 Once after you have successfully deployed the App, kindly share your experience on LinkedIn by Tagging me and also provide the YouTube link of this project in your post, as it helps others to access the video quickly. 
 ========================================================================================================
 												HAPPY LEARNING
+
 
 
 
