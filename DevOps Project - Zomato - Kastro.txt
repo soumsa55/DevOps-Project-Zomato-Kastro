@@ -75,6 +75,8 @@ Verifiy Trivy installation: trivy --version
 8. Install Docker Scout
 Make sure to Login to DockerHub account in browser
 <Follow the process as explained in the video>
+docker login -u soumyaranjan060886
+<Enter the password>
 
 9. Install SonarQube using Docker
 $ docker run -d --name sonar -p 9000:9000 sonarqube:lts-community
@@ -713,6 +715,7 @@ Kind Request:
 Once after you have successfully deployed the App, kindly share your experience on LinkedIn by Tagging me and also provide the YouTube link of this project in your post, as it helps others to access the video quickly. 
 ========================================================================================================
 												HAPPY LEARNING
+
 
 
 
